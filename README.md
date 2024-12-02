@@ -1,7 +1,8 @@
-## Hi there 👋
+## Aliya Aburas - Portfolio
 
 <!--
 **AliyaAburas/AliyaAburas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Computer Science Student and I have been learning different programming languages and using different platforms to expand my knowledge and abilities in programming since around 2018. During this time I have gained sufficient - proficient knowledge in languages such as C++, Python, HTML, utilising software like Visual Basic, Visual Studio and more simplistic IDEs. My interest and abilities in technology go further with my learning and practice of building and modifying computers since 2022.
+
+I am currently expanding my abilities on the languages I already know (C++, Python and HTML).
+
+
